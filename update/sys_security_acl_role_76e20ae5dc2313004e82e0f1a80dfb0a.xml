@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2018-07-26 23:27:38</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>76e20ae5dc2313004e82e0f1a80dfb0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_test_git_import_git_tbl.x_test_git_import.git_tbl_user</sys_name>
+        <sys_package display_value="test_git_import" source="x_test_git_import">e6b202e5dc2313004e82e0f1a80dfb08</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="test_git_import">e6b202e5dc2313004e82e0f1a80dfb08</sys_scope>
+        <sys_security_acl display_value="x_test_git_import_git_tbl">b2e20ae5dc2313004e82e0f1a80dfb07</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_76e20ae5dc2313004e82e0f1a80dfb0a</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2018-07-26 23:27:38</sys_updated_on>
+        <sys_user_role display_value="x_test_git_import.git_tbl_user" name="x_test_git_import.git_tbl_user">26e2c6e5dc2313004e82e0f1a80dfbf6</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
